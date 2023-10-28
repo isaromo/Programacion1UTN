@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../SPD I - Tonelli/joystick-spd-grupo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "joystick-spd-grupo"
+	}
+}
